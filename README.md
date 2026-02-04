@@ -8,13 +8,15 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/12CwCcLkK3EW51Q1J1FsRw7qTcVyPYf21
 
+Live demo: https://sonnet-start.github.io/beautify-landing/
+
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  Bun or Node.js
 
 
 1. Install dependencies:
-   `npm install`
+   `bun install` or `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
-   `npm run dev`
+   `bun run dev` or `npm run dev`
