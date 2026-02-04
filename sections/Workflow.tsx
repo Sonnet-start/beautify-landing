@@ -60,7 +60,7 @@ const Workflow: React.FC = () => {
                         <div className="text-[11px] text-gray-500 mb-4 leading-tight">Сделайте фото лица при хорошем освещении для точного анализа</div>
                         <div className="relative rounded-2xl overflow-hidden shadow-inner bg-gray-50 flex items-center justify-center">
                            <img
-                             src="https://t4.ftcdn.net/jpg/06/29/30/95/360_F_629309549_mlnmJIa1vQrAyBWmHlc6deeY52c6m0M6.jpg"
+                             src="/beautify-landing/skin-analysis.svg"
                              alt="Freckled Skin Analysis"
                              className="w-full h-auto object-contain block"
                            />
